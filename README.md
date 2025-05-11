@@ -6,4 +6,7 @@
 📫 How to reach me kainataslam110@gmail.com
 😄 Pronouns: she/her
 ⚡ Fun fact: I dream in loops and occasionally take a break to enjoy some Git."
+contact 03166560689
+location  Bahauddin Zakariya University Multan 
+
 My github is where ideas turn into real-world solutions
